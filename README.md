@@ -2,6 +2,8 @@
 
 ### I am a budding Data Scientist from India. This ✨ _special_ ✨ page summarizes my personality and interests.
 
+<img src="<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>" width="30"> from India.
+
 - I specialize in Data Science and Analytics.
 - AI and ML related tech also interests me.
 - I specifically write code, but also research and draft blogs on futuristic technologies.
