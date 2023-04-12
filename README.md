@@ -2,7 +2,9 @@
 
 ### I am a budding Data Scientist from India. This ✨ _special_ ✨ page summarizes my personality and interests.
 
-<img src="https://giphy.com/embed/xT9C25UNTwfZuk85WP">
+<div align="center">
+  <img src="https://giphy.com/embed/xT9C25UNTwfZuk85WP.gif" width="600" height="300"/>
+</div>
 
 - I specialize in Data Science and Analytics.
 - AI and ML related tech also interests me.
