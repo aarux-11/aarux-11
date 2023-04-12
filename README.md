@@ -3,7 +3,7 @@
 ### I am a budding Data Scientist from India. This ✨ _special_ ✨ page summarizes my personality and interests.
 
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1325034866/vector/data-analysis-vector-illustration-with-young-woman-sitting-in-front-of-big-computer-monitor.jpg?s=612x612&w=0&k=20&c=n5-pe8pgPfPMcRpOL8bpy6mcx-LHrxLs2sYX1vJ9smM=" width="600" height="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYr1knyVRAsv25IPJz0L_eo3WLaFz_UrOM7g&usqp=CAU" width="600" height="300"/>
 </div>
 
 - I specialize in Data Science and Analytics.
