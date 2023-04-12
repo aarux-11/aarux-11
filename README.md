@@ -3,7 +3,7 @@
 ### I am a budding Data Scientist from India. This ✨ _special_ ✨ page summarizes my personality and interests.
 
 <div align="center">
-  <img src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTEyYjk4ZTM1NzE5ZDEwZmU3MjI2ZjBmMDY0Yjk4Zjk1N2E3NTRhMSZjdD1n/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="600" height="300"/>
 </div>
 
 - I specialize in Data Science and Analytics.
