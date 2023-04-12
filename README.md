@@ -1,17 +1,10 @@
-### Hi All!
-
-
 
 <div align="center">
-  <div align="right">
-    I am a budding Data Scientist from India. This ✨ _special_ ✨ page summarizes my personality and interests.
-  </div>
-  
-  <div align=left>
-    <img src="https://cdn-images-1.medium.com/v2/resize:fit:1000/1*f_jMU79UDJnbaisGewI6Cw.jpeg" width="203" height="215"/>
-  </div>
-  
+    <img src="https://cdn-images-1.medium.com/v2/resize:fit:1000/1*f_jMU79UDJnbaisGewI6Cw.jpeg" width="203" height="215"/> 
+  Hi All!
 </div>
+
+### I am a budding Data Scientist from India. This ✨ _special_ ✨ page summarizes my personality and interests.
 
 - I specialize in Data Science and Analytics.
 - AI and ML related tech also interests me.
