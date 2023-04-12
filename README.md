@@ -1,16 +1,27 @@
-### Hi Everyone!
+### Hi All!
 
-This ✨ _special_ ✨ page is brief about me.
+### I am a budding Data Scientist from India. This ✨ _special_ ✨ page summarizes my personality and interests.
 
-## I'm crazy about Data Science, AI and ML related technologies.
-## I code research and write.
+- I specialize in Data Science and Analytics.
+- AI and ML related tech also interests me.
+- I specifically write code, but also research and draft blogs on futuristic technologies.
+- Taking Data Science to the next level is what I'm aiming for.
+
+Organizations I've worked for:
+
+- AI & Robotics Lab, College of Military Engineering
+- Maker's Lab Tech Mahindra, NSEZ
+- Data Security Council of India
+
+I have a knack for implementing Artificially Intelligent tehcnologies for the Indian Military and related Organizations.
+Raech @me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-kumar-a0769118b/)
+
+Languages and Tools:
 
 
-👨🏽‍💻 I'm an Artificial Intelligence and Machine Learning enthusiast & a Tensorflow Developer
-🎯 A final year B.Tech CSE student with specialization in AI & ML
-🎸 Beside's Computer Science, I have interest in Indian Classical Music
-💬 Reach me, ask me anything & anytime, I will be happy to help
-⚡️ Fun-Fact: Code, Sleep, Eat & Repeat
+
+
+
 
 <!--
 **aarux-11/aarux-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
