@@ -36,10 +36,13 @@ Languages and Tools:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aarux-11)](https://git.io/streak-stats)
+<div align="center">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aarux-11)](https://git.io/streak-stats)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarux-11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarux-11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
 Add Blogs on dev.to link: https://www.sitepoint.com/github-profile-readme/#:~:text=Adding%20Languages%20and%20Tools&text=For%20the%20heading%2C%20add%20the,in%20the%20DevIcons%20GitHub%20Repository.
 -->
