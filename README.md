@@ -1,5 +1,6 @@
 <div align="center">
-    Hi All!
+    <strong> Hi Everyone!
+    
 </div>
 
 <div align="center">
