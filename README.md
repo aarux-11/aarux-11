@@ -1,6 +1,6 @@
 <div align="center">
     <strong> Hi Everyone!✨
-        <br> I am a budding Data Scientist from India. 
+        <br> I am a Junior Data Scientist from India. 
 </div>
 
 <div align="center">
