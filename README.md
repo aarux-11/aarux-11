@@ -17,7 +17,7 @@
 ---
 I have a knack for implementing Artificially Intelligent technologies for the Indian Military and related organizations.
 
-Reach @me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-kumar-a0769118b/)
+Reach @me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-k-a0769118b/)
 
 ---
 
