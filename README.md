@@ -1,6 +1,6 @@
 <div align="center">
-    <strong> Hi Everyone!✨
-        <br> I am a Junior Data Scientist from India. 
+    <strong> Yo!✨
+        <br> I am a Data Engineer from India. 
 </div>
 
 <div align="center">
@@ -10,17 +10,10 @@
 ### ✨This page summarizes my personality and interests.✨
 
 - I specialize in Data Science and Analytics.
-- AI and ML related tech also interests me.
-- I specifically write code, but also research and draft blogs on futuristic technologies.
+- AI and ML cross functioning with data science also interests me.
+- I write SQL queries, desing complex metrics, create and visualize Tableau dashboards, read tech articles and research on futuristic technologies.
 - Taking Data Science to the next level is what I'm aiming for.
 
----
-
-Organizations I've worked for:
-
-- AI & Robotics Lab, College of Military Engineering
-- Maker's Lab Tech Mahindra, NSEZ
-- Data Security Council of India
 ---
 I have a knack for implementing Artificially Intelligent tehcnologies for the Indian Military and related Organizations.
 
