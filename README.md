@@ -11,7 +11,7 @@
 
 - I specialize in Data Science and Analytics.
 - AI and ML cross functioning with data science also interests me.
-- I write SQL queries, desing complex metrics, create and visualize Tableau dashboards, read tech articles and research on futuristic technologies.
+- I write SQL queries, design complex metrics, create and visualize Tableau dashboards, read tech articles and research on futuristic technologies.
 - Taking Data Science to the next level is what I'm aiming for.
 
 ---
